@@ -1,27 +1,10 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-About EcoBuddy
+ABOUT ECOBUDDY
 
 EcoBuddy is an educational iOS application developed using SwiftUI for the Swift Student Challenge (SSC).
 
 The app helps users:
+                   Learn the eco habits
+                   Offline guidence of waste management
                    Learn proper waste disposal methods
                    Understand environmental impact
                    Discover creative reuse ideas
@@ -30,7 +13,7 @@ The app helps users:
 The goal is to make environmental education simple, engaging, and accessible.
 
 
-🎯 Problem Statement
+🎯 PROBLEM STATEMENT
 
 Many people do not know:
                 Which bin to use for different waste
@@ -40,7 +23,7 @@ Many people do not know:
 EcoBuddy solves this problem by combining education + interaction + gamification.
 
 
-🚀 Features
+🚀 FEATURES
 
 📘 1. Browse Eco Items
 
@@ -120,10 +103,18 @@ Environmental impact
 Carbon footprint
 Decomposition time
 
-♻️ SecondLife
+♻️ SecondLifea View
 
 Creative reuse suggestions
 Sustainable living inspiration
+
+
+🗑️ TrashRight View
+
+Which bin color to use suggestions
+Step-by-step disposal instructions
+Recycling tips
+It avoids confusion in waste segregation.
 
 🎮 Play & Learn
 PlaylearnView
@@ -144,4 +135,4 @@ EcoBuddy was inspired by the need to create a simple yet powerful tool that enco
 📌 Conclusion
 
 EcoBuddy promotes environmental responsibility by making learning: Simple ,Interactive ,Practical,Fun.
-   “Small actions today create a greener tomorrow.”
+   “Small actions today create a greener tomorrow.
